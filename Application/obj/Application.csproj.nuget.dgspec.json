@@ -34,8 +34,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\Domain.csproj"
               },
               "C:\\PROJECTS\\C# PROJECTS\\Reactivities\\Persistance\\Persistance.csproj": {
                 "projectPath": "C:\\PROJECTS\\C# PROJECTS\\Reactivities\\Persistance\\Persistance.csproj"
@@ -78,14 +78,14 @@
         }
       }
     },
-    "c:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\IMB_Polareyez\\.nuget\\packages\\",
-        "outputPath": "c:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -175,8 +175,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\PROJECTS\\C# PROJECTS\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
