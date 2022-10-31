@@ -435,6 +435,9 @@
       "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.1"
+        },
         "compile": {
           "bin/placeholder/Domain.dll": {}
         },
@@ -1037,11 +1040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\PROJECTS\\C# PROJECTS\\Reactivities\\Persistance\\Persistance.csproj",
+      "projectUniqueName": "C:\\PROJECTS\\C# PROJECTS\\Reactivities\\Persistance\\Persistance.csproj",
       "projectName": "Persistance",
-      "projectPath": "c:\\PROJECTS\\C# PROJECTS\\Reactivities\\Persistance\\Persistance.csproj",
+      "projectPath": "C:\\PROJECTS\\C# PROJECTS\\Reactivities\\Persistance\\Persistance.csproj",
       "packagesPath": "C:\\Users\\IMB_Polareyez\\.nuget\\packages\\",
-      "outputPath": "c:\\PROJECTS\\C# PROJECTS\\Reactivities\\Persistance\\obj\\",
+      "outputPath": "C:\\PROJECTS\\C# PROJECTS\\Reactivities\\Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1056,6 +1059,8 @@
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
