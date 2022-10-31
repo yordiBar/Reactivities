@@ -1,5 +1,4 @@
 C:\PROJECTS\C# PROJECTS\Reactivities\API\bin\Debug\net6.0\appsettings.Development.json
-C:\PROJECTS\C# PROJECTS\Reactivities\API\bin\Debug\net6.0\appsettings.json
 C:\PROJECTS\C# PROJECTS\Reactivities\API\bin\Debug\net6.0\API.exe
 C:\PROJECTS\C# PROJECTS\Reactivities\API\bin\Debug\net6.0\API.deps.json
 C:\PROJECTS\C# PROJECTS\Reactivities\API\bin\Debug\net6.0\API.runtimeconfig.json
